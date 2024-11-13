@@ -2,8 +2,8 @@
 git init
 
 # Configure seus dados no git
-git config --global user.name "IgorexemploMartins"
-git config --global user.email "exemplohotmail.com"
+git config --global user.name "Igor-Martins12"
+git config --global user.email "igorjose07@hotmail.com"
 
 # Faça o commit inicial
 git commit -am 'Initial'
